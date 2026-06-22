@@ -1,5 +1,3 @@
-# Uruchomienie: python main.py
-# exe: python -m PyInstaller --noconfirm GraOczko.spec
 
 from gui.app import OczkoApp
 
