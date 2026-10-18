@@ -9,8 +9,6 @@ Gra wieloosobowa typu "Oczko" (zbliżona do Blackjacka) działająca w sieci LAN
 
 Aplikacja realizuje model klient-serwer z wykorzystaniem architektury **Listen-Server**, w której host gry pełni jednocześnie rolę serwera autorytatywnego i gracza.
 
-**Autorzy:** Marcin Hajduk, Kacper Gawęda
-
 ### 🛠️ Technologie i architektura
 
 *   **Język i GUI:** Python, CustomTkinter (asynchroniczny interfejs oparty na kolejkowaniu zdarzeń `queue.Queue`).
@@ -41,8 +39,6 @@ Aplikacja realizuje model klient-serwer z wykorzystaniem architektury **Listen-S
 A multiplayer "Oczko" (similar to Blackjack) card game operating over a LAN network. A university project for the **Network Applications** course (Kielce University of Technology).
 
 The application implements a client-server model using a **Listen-Server** architecture, where the game host acts simultaneously as an authoritative server and a player.
-
-**Authors:** Marcin Hajduk, Kacper Gawęda
 
 ### 🛠️ Technologies and Architecture
 
